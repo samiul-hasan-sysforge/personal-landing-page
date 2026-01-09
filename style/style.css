@@ -8,7 +8,7 @@ body {
 }
 
 .header-container{
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
 
     background-size: cover;
     background-position: center;
@@ -148,7 +148,7 @@ body {
 .watch-img {
     background: 
       linear-gradient(90deg, rgb(241, 93, 34), rgba(241, 93, 34, 0.2)),
-      url(/images/watch.png);
+      url(../images/watch.png);
     background-size: cover;
     width: 1500px;
     height: 400px;
